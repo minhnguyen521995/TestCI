@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 50vh;
+}
+
+.header {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    background-color: red;
+    color: white;
+}
+
+h2 {
+    padding: 50px 30px;
+}
+
+form {
+    padding-bottom: 50px;
+}
+
+input {
+    font-size: x-large;
+}
+
+button {
+    font-size: x-large;
+}
